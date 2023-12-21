@@ -1,0 +1,42 @@
+li a {
+    color: green;
+    width: 510px;
+    margin: 0 auto 40px;
+}
+li {
+    color: white;
+    border: 20px
+}
+body {
+    background: white url("images/background.png") no-repeat;
+    font-size: 56px;
+}
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 72px;
+}
+legend {
+    text-align: center;
+    color: black;
+    font-size: 72px;
+}
+label {
+    text-align: center;
+    font-size: 56px;
+    color: green;
+}
+input {
+    font-size: 46px;
+    color: red;
+}
+input[type=radio] {
+    border: 0px;
+    width: 2%;
+    height: 1em;
+}
+p {
+    text-align: center;
+    font-size: 56px;
+    color: white;
+}
